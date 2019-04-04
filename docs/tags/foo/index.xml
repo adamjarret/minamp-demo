@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foo on minamp demo</title>
+    <link>https://adamjarret.github.io/minamp-demo/tags/foo/</link>
+    <description>Recent content in Foo on minamp demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2019 Adam Jarret. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 29 Mar 2019 15:38:28 -0400</lastBuildDate>
+    
+	<atom:link href="https://adamjarret.github.io/minamp-demo/tags/foo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sixth Post</title>
+      <link>https://adamjarret.github.io/minamp-demo/sixth-post/</link>
+      <pubDate>Fri, 29 Mar 2019 15:38:28 -0400</pubDate>
+      
+      <guid>https://adamjarret.github.io/minamp-demo/sixth-post/</guid>
+      <description>&lt;p&gt;Sed id iaculis ligula, at ultricies leo.
+Aliquam mollis purus orci, vitae tincidunt mauris pharetra id.
+Quisque eget lorem eu enim gravida gravida at ac turpis.
+Fusce egestas arcu at dolor placerat dapibus.
+Aliquam maximus quam at lectus elementum eleifend.
+Proin vitae cursus tellus, non vehicula eros.
+Sed vestibulum imperdiet ante egestas tincidunt.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

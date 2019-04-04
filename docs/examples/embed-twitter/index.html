@@ -1,0 +1,119 @@
+<!doctype html>
+<html amp lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+
+    <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+    <script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+    
+
+    <title>Embed a Tweet - minamp demo</title>
+
+    <link rel="canonical" href="https://adamjarret.github.io/minamp-demo/examples/embed-twitter/">
+
+
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+    
+
+    
+
+    
+
+    <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i" rel="stylesheet">
+
+    
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <style amp-custom>
+        html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}body{margin:0;padding:16px;font-family:"PT Serif",serif;font-size:16px}article{margin-bottom:32px}footer{margin-top:16px}ol,ul{padding:0 0 0 32px}h1,h2,h3,h4,h5,h6,p{padding:0;font-weight:normal}h1{font-size:32px;margin:10.72px 0}h2{font-size:24px;margin:12px 0}h3{font-size:18.72px;margin:13.28px 0}h4,p,blockquote,ul,ol,dl,fieldset,form,menu,dir{font-size:16px;margin:17.92px 0;font-weight:normal}h5{font-size:13.28px;margin:24px 0}h6{font-size:12px;margin:26.72px 0}h2+.meta{margin-top:-6px}h3+.meta{margin-top:-6.64px}.meta{font-style:italic}.taxonomy li a:before{content:'#'}.taxonomy,.taxonomy li,.pagination,.pagination .page-item{list-style:none;display:inline;padding-left:0}.pagination{display:block;margin-top:16px}.hamburger{border:1px solid #000;border-radius:6px;padding-top:4px}.sidebar-nav{padding-right:32px}.sidebar-nav ul{list-style:none}.sidebar-nav ul li{margin-bottom:16px}
+
+
+        
+    </style>
+
+    
+    <meta name="generator" content="Hugo 0.54.0" />
+
+<link rel='shortcut icon' type='image/x-icon' href='https://adamjarret.github.io/minamp-demo/favicon.ico' />
+
+</head>
+<body><header>
+    <h1>
+        <button class="hamburger" on='tap:sidebar1.toggle'>
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                <path d="M0 0h24v24H0z" fill="none"></path>
+                <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path>
+            </svg>
+        </button>
+        <a href="https://adamjarret.github.io/minamp-demo/">minamp demo</a>
+    </h1>
+</header>
+
+
+
+<amp-sidebar id="sidebar1" layout="nodisplay" side="left">
+    <nav class="sidebar-nav">
+        <ul>
+            <li><a href="https://adamjarret.github.io/minamp-demo/">Home</a></li>
+            
+                <li><a href="https://adamjarret.github.io/minamp-demo/examples/">Examples</a></li>
+            
+                <li><a href="https://adamjarret.github.io/minamp-demo/gallery/">Galleries</a></li>
+            
+        </ul>
+    </nav>
+</amp-sidebar>
+
+<main>
+<article>
+    <header>
+        <h2>Embed a Tweet</h2>
+        <div class="meta">
+    Posted
+
+    
+     in <a href="https://adamjarret.github.io/minamp-demo/examples/">Examples</a>
+
+    on March 29, 2019
+
+    
+    
+    
+    
+    
+</div>
+
+    </header>
+    <p>This post demonstrates how to embed a Tweet.</p>
+
+<p><strong>Frontmatter</strong></p>
+
+<p>Include <code>amp-twitter</code> in the list of  <code>ampComponents</code> in the post frontmatter
+(assuming <code>amp-twitter</code> is not already included globally or in the layout).</p>
+
+<p><strong>Embed Code</strong></p>
+
+<pre><code>&lt;amp-twitter width=&quot;375&quot;
+  height=&quot;472&quot;
+  layout=&quot;responsive&quot;
+  data-tweetid=&quot;1106603910196658177&quot;&gt;
+&lt;/amp-twitter&gt;
+</code></pre>
+
+<p><strong>Result</strong></p>
+
+<p><amp-twitter width="375"
+  height="472"
+  layout="responsive"
+  data-tweetid="1106603910196658177">
+</amp-twitter></p>
+</article>
+
+</main><footer>
+    Copyright 2019 Adam Jarret. All rights reserved.
+</footer>
+
+
+</body>
+</html>

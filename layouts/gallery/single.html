@@ -1,0 +1,21 @@
+{{ define "scratch" }}
+{{- $.Scratch.Add "ampComponents" (slice "amp-lightbox-gallery") -}}
+{{ end }}
+
+{{ define "main" }}
+
+<article>
+    <header>
+        <h2>{{ .Title }}</h2>
+        {{ partial "article-meta" . }}
+    </header>
+
+    {{ .Content }}
+
+    {{ range .Params.images }}
+        {{ partial "amp/image" . }}
+        {{ with .caption }}<p class="caption"> {{ . }}</p>{{ end }}
+    {{ end }}
+</article>
+
+{{ end }}

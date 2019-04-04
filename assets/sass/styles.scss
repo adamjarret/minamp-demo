@@ -1,0 +1,17 @@
+@import "_theme";
+
+.hamburger {
+  border: 1px solid #000;
+  border-radius: 6px;
+  padding-top: 4px;
+}
+
+.sidebar-nav {
+  padding-right: ($content-spacing * 2);
+  ul {
+    list-style: none;
+    li {
+      margin-bottom: $content-spacing;
+    }
+  }
+}

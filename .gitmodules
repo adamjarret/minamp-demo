@@ -1,0 +1,3 @@
+[submodule "themes/minamp"]
+	path = themes/minamp
+	url = https://github.com/adamjarret/minamp

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cat5 on minamp demo</title>
+    <link>https://adamjarret.github.io/minamp-demo/categories/cat5/</link>
+    <description>Recent content in Cat5 on minamp demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2019 Adam Jarret. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 29 Mar 2019 15:38:23 -0400</lastBuildDate>
+    
+	<atom:link href="https://adamjarret.github.io/minamp-demo/categories/cat5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fifth Post</title>
+      <link>https://adamjarret.github.io/minamp-demo/fifth-post/</link>
+      <pubDate>Fri, 29 Mar 2019 15:38:23 -0400</pubDate>
+      
+      <guid>https://adamjarret.github.io/minamp-demo/fifth-post/</guid>
+      <description>&lt;p&gt;Proin a libero cursus dui volutpat mattis.
+Nam bibendum justo id efficitur scelerisque.
+Aliquam blandit blandit imperdiet.
+Fusce mattis libero sem, vel interdum felis tincidunt quis.
+Aenean tristique erat urna, sed consequat felis egestas et.
+Nullam ac risus ullamcorper, consequat purus aliquet, ornare elit.
+Mauris ultricies, nulla eu egestas vehicula, lectus lorem aliquam mi, sed faucibus tortor urna sed odio.
+Praesent ut est ac metus congue malesuada.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
