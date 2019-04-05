@@ -8,7 +8,7 @@ An example site using the
 
 ## Installation
 
-### Perquisites
+### Prerequisites
 
 * [git](https://git-scm.com)
 * [Hugo](https://gohugo.io)
