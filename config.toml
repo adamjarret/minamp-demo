@@ -7,7 +7,7 @@ theme = "minamp"
 disableLiveReload = true
 
 # [RECOMMENDED] The <meta charset="utf-8"> element should be the first element in <head>
-#	Instead of injecting, {{ .Hugo.Generator }} is included explicitly in head.html
+#	Instead of injecting, {{ hugo.Generator }} is included explicitly in head.html
 disableHugoGeneratorInject = true
 
 # [DEMO] Generate robots.txt file
