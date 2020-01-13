@@ -16,8 +16,8 @@
     <nav class="sidebar-nav">
         <ul>
             <li><a href="{{ $.Site.BaseURL }}">Home</a></li>
-            {{ range $section, $taxonomy := .Site.Sections }}
-                <li><a href="{{ $taxonomy.Permalink}}">{{ $taxonomy.LinkTitle }}</a></li>
+            {{ range sort .Site.Sections ".Params.title" }}
+                <li><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
             {{ end }}
         </ul>
     </nav>

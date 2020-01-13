@@ -7,20 +7,24 @@ theme = "minamp"
 disableLiveReload = true
 
 # [RECOMMENDED] The <meta charset="utf-8"> element should be the first element in <head>
-#	Instead of injecting, {{ hugo.Generator }} is included explicitly in head.html
+#	Instead of injecting, {{ hugo.Generator }} is included explicitly in layouts/partials/head/other.html
 disableHugoGeneratorInject = true
 
 # [DEMO] Generate robots.txt file
 enableRobotsTXT = true
 
 # [DEMO] Used for RSS <copyright> element content (minamp theme also uses this in footer by default)
-copyright = "Copyright 2019 Adam Jarret. All rights reserved."
+copyright = "Copyright 2020 Adam Jarret. All rights reserved."
 
 # [DEMO] Change output dir to "docs" for GitHub Pages
 publishDir = "docs"
 
 # [DEMO] The number of items displayed on list pages
 paginate = 4
+
+# [RECOMMENDED] Allow HTML in markdown files (otherwise all AMP elements must be rendered using shortcodes/partials)
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
 # Optional theme params

@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://adamjarret.github.io/minamp-demo/</loc>
+    <lastmod>2019-04-01T15:48:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adamjarret.github.io/minamp-demo/gallery/</loc>
+    <lastmod>2019-04-01T15:48:23-04:00</lastmod>
+  </url>
   
   <url>
     <loc>https://adamjarret.github.io/minamp-demo/gallery/roads/</loc>
@@ -13,13 +23,53 @@
   </url>
   
   <url>
+    <loc>https://adamjarret.github.io/minamp-demo/examples/</loc>
+    <lastmod>2019-03-29T15:48:23-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://adamjarret.github.io/minamp-demo/examples/embed-twitter/</loc>
     <lastmod>2019-03-29T15:39:23-04:00</lastmod>
   </url>
   
   <url>
+    <loc>https://adamjarret.github.io/minamp-demo/tags/bar/</loc>
+    <lastmod>2019-03-29T15:38:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adamjarret.github.io/minamp-demo/categories/cat6/</loc>
+    <lastmod>2019-03-29T15:38:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adamjarret.github.io/minamp-demo/categories/</loc>
+    <lastmod>2019-03-29T15:38:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adamjarret.github.io/minamp-demo/tags/foo/</loc>
+    <lastmod>2019-03-29T15:38:28-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://adamjarret.github.io/minamp-demo/sixth-post/</loc>
     <lastmod>2019-03-29T15:38:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adamjarret.github.io/minamp-demo/tags/</loc>
+    <lastmod>2019-03-29T15:38:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adamjarret.github.io/minamp-demo/tags/baz/</loc>
+    <lastmod>2019-03-29T15:38:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://adamjarret.github.io/minamp-demo/categories/cat5/</loc>
+    <lastmod>2019-03-29T15:38:23-04:00</lastmod>
   </url>
   
   <url>
@@ -45,63 +95,6 @@
   <url>
     <loc>https://adamjarret.github.io/minamp-demo/first-post/</loc>
     <lastmod>2019-03-29T15:34:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamjarret.github.io/minamp-demo/</loc>
-    <lastmod>2019-04-01T15:48:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamjarret.github.io/minamp-demo/tags/bar/</loc>
-    <lastmod>2019-03-29T15:38:28-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adamjarret.github.io/minamp-demo/tags/baz/</loc>
-    <lastmod>2019-03-29T15:38:23-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adamjarret.github.io/minamp-demo/categories/cat5/</loc>
-    <lastmod>2019-03-29T15:38:23-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adamjarret.github.io/minamp-demo/categories/cat6/</loc>
-    <lastmod>2019-03-29T15:38:28-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adamjarret.github.io/minamp-demo/categories/</loc>
-    <lastmod>2019-03-29T15:38:23-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adamjarret.github.io/minamp-demo/examples/</loc>
-    <lastmod>2019-03-29T15:48:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamjarret.github.io/minamp-demo/tags/foo/</loc>
-    <lastmod>2019-03-29T15:38:28-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adamjarret.github.io/minamp-demo/gallery/</loc>
-    <lastmod>2019-04-01T15:48:23-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://adamjarret.github.io/minamp-demo/tags/</loc>
-    <lastmod>2019-03-29T15:38:28-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

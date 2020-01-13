@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on minamp demo</title>
@@ -6,14 +6,14 @@
     <description>Recent content in Tags on minamp demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright 2019 Adam Jarret. All rights reserved.</copyright>
+    <copyright>Copyright 2020 Adam Jarret. All rights reserved.</copyright>
     <lastBuildDate>Fri, 29 Mar 2019 15:38:28 -0400</lastBuildDate>
     
 	<atom:link href="https://adamjarret.github.io/minamp-demo/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bar</title>
+      <title>bar</title>
       <link>https://adamjarret.github.io/minamp-demo/tags/bar/</link>
       <pubDate>Fri, 29 Mar 2019 15:38:28 -0400</pubDate>
       
@@ -22,20 +22,20 @@
     </item>
     
     <item>
-      <title>Baz</title>
-      <link>https://adamjarret.github.io/minamp-demo/tags/baz/</link>
-      <pubDate>Fri, 29 Mar 2019 15:38:23 -0400</pubDate>
-      
-      <guid>https://adamjarret.github.io/minamp-demo/tags/baz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Foo</title>
+      <title>foo</title>
       <link>https://adamjarret.github.io/minamp-demo/tags/foo/</link>
       <pubDate>Fri, 29 Mar 2019 15:38:28 -0400</pubDate>
       
       <guid>https://adamjarret.github.io/minamp-demo/tags/foo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>baz</title>
+      <link>https://adamjarret.github.io/minamp-demo/tags/baz/</link>
+      <pubDate>Fri, 29 Mar 2019 15:38:23 -0400</pubDate>
+      
+      <guid>https://adamjarret.github.io/minamp-demo/tags/baz/</guid>
       <description></description>
     </item>
     
